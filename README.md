@@ -9,8 +9,8 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m a web developer with a strong passion for **cybersecurity**, **blockchain** technology, and **renewable energies**.  
-- 🎸 Besides coding, I'm also a **musician** and **writer** who loves exploring creative fields.  
+- 🌱 I’m a web developer with a strong passion for **cybersecurity**, **blockchain** technology.  
+- 🎸 Besides coding, I'm also a **writer** who loves exploring creative fields.  
 - 📫 How to reach me: **nvfede@gmail.com**
 
 ---
