@@ -15,7 +15,6 @@ about twenty projects from falling over.
 | | What it is | Stack |
 |---|---|---|
 | **[ContaDoc](https://contadoc.io)** | Accounting platform for independent healthcare professionals in Argentina. Tax engine (VAT, income tax, provincial), OCR expense capture, period settlement. | Next.js · TypeScript · Supabase · PostgreSQL RLS |
-| **[CuotaQ](https://cuotaq.com)** | Membership-fee billing for clubs and non-profits. | Next.js · TypeScript |
 | **[AssetWhisper](https://assetwhisper.com)** | Market analysis platform. Educational content, no return promises. | Next.js · Python |
 | **[NVDigital](https://nvdigital.es)** · **[Loco 22](https://loco22.com)** | Web development studios — Spain and Argentina. | Astro · Next.js · WordPress headless |
 | **[OPS Colombia](https://opscolombia.com)** | Solar quotes marketplace. ~70k monthly search impressions. | Astro · Vercel |
